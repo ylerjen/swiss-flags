@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24.03 29" width="24.03" height="29" preserveAspectRatio="xMinYMid">
+    <defs>
+        <style>.cls-1,.cls-5{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#fff;}.cls-4{fill:#2673bd;}.cls-5{stroke:#171714;stroke-miterlimit:3.86;stroke-width:0.45px;}</style>
+        <clipPath id="clip-path" transform="translate(0 0)">
+            <rect class="cls-1" width="24.03" height="29"/>
+        </clipPath>
+    </defs>
+    <g>
+        <g>
+            <g class="cls-2">
+                <path class="cls-3" d="M.47,17.7V.51H23.64V17.7C23.65,25,17,28.65,12,28.65,6.66,28.65.48,25,.47,17.7" transform="translate(0 0)"/>
+                <path class="cls-4" d="M.46.51V17.7C.48,25,6.66,28.65,12,28.65c5,0,8.9-3.25,10.08-5.46L.48.56v0Z" transform="translate(0 0)"/>
+                <path class="cls-5" d="M.23,17.67V.23H23.81V17.67c0,7.38-6.71,11.1-11.8,11.1C6.52,28.77.22,25.05.23,17.67Z" transform="translate(0 0)"/>
+                <path class="cls-3" d="M.47,17.7V.51H23.64V17.7C23.65,25,17,28.65,12,28.65,6.66,28.65.48,25,.47,17.7" transform="translate(0 0)"/>
+                <path class="cls-4" d="M.46.51V17.7C.48,25,6.66,28.65,12,28.65c5,0,8.9-3.25,10.08-5.46L.48.56v0Z" transform="translate(0 0)"/>
+                <path class="cls-5" d="M.23,17.67V.23H23.81V17.67c0,7.38-6.71,11.1-11.8,11.1C6.52,28.77.22,25.05.23,17.67Z" transform="translate(0 0)"/>
+            </g>
+        </g>
+    </g>
+</svg>
