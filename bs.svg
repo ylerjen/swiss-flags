@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24.03 29" width="24.03" height="29" preserveAspectRatio="xMinYMid">
+    <defs>
+        <style>.cls-1,.cls-4{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#fff;}.cls-4{stroke:#171714;stroke-miterlimit:3.86;stroke-width:0.45px;}.cls-5{fill:#171714;}</style>
+        <clipPath id="clip-path" transform="translate(0 0)">
+            <rect class="cls-1" width="24.03" height="29"/>
+        </clipPath>
+    </defs>
+    <g>
+        <g>
+            <g class="cls-2">
+                <path class="cls-3" d="M.23,17.67V.23H23.81V17.67c0,7.38-6.71,11.1-11.8,11.1C6.52,28.77.22,25.06.23,17.67" transform="translate(0 0)"/>
+                <path class="cls-4" d="M.23,17.67V.23H23.81V17.67c0,7.38-6.71,11.1-11.8,11.1C6.52,28.77.22,25.06.23,17.67Z" transform="translate(0 0)"/>
+                <path class="cls-5" d="M7.31,2.13a6.24,6.24,0,0,1,2.56-.06,5.68,5.68,0,0,1,3.84,2.56,6.75,6.75,0,0,1,1,2.13,16.08,16.08,0,0,1,.55,3.78H10a11.64,11.64,0,0,0,.18-2.81,2.6,2.6,0,0,0-1.71-2.2,1.66,1.66,0,0,0-1.1,0A1.71,1.71,0,0,0,6.21,6.71c-.12.49,0,1.19.55,1.27a.61.61,0,0,0,.61-.3c.12-.36-.25-.55-.55-.61a.94.94,0,0,1,.3-.55,1.08,1.08,0,0,1,.67-.18,1.52,1.52,0,0,1,1.12.95,1.92,1.92,0,0,1-.5,2,2.62,2.62,0,0,1-2.32.61A3.09,3.09,0,0,1,4,8,4.46,4.46,0,0,1,7.31,2.13" transform="translate(0 0)"/>
+                <path class="cls-5" d="M16.78,13.33a.7.7,0,1,0,0-1.4H8.56a.7.7,0,1,0,0,1.4Z" transform="translate(0 0)"/>
+                <path class="cls-5" d="M15.87,11.67a.46.46,0,1,0,0-.92H9.35a.46.46,0,0,0,0,.92Z" transform="translate(0 0)"/>
+                <path class="cls-5" d="M16.33,14.47a.43.43,0,0,0,0-.85H8.89a.43.43,0,0,0,0,.85Z" transform="translate(0 0)"/>
+            </g>
+            <polygon class="cls-5" points="12.61 14.69 9.2 14.69 7.41 25.87 10.46 23.59 12.61 25.9 14.76 23.59 17.81 25.87 16.02 14.69 12.61 14.69"/>
+        </g>
+    </g>
+</svg>
