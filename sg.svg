@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24.03 29" width="24.03" height="29" preserveAspectRatio="xMinYMid">
+    <defs>
+        <style>.cls-1,.cls-4,.cls-6{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#69a33d;}.cls-4,.cls-6{stroke:#171714;}.cls-4{stroke-miterlimit:3.86;stroke-width:0.45px;}.cls-5{fill:#fff;}.cls-6{stroke-miterlimit:11.47;stroke-width:0.23px;}</style>
+        <clipPath id="clip-path" transform="translate(0 0)">
+            <rect class="cls-1" width="24.03" height="29"/>
+        </clipPath>
+    </defs>
+    <g>
+        <g>
+            <g class="cls-2">
+                <path class="cls-3" d="M.23,17.67V.23H23.8V17.67c0,7.38-6.71,11.1-11.8,11.1C6.52,28.77.22,25.06.23,17.67" transform="translate(0 0)"/>
+                <path class="cls-4" d="M.23,17.67V.23H23.8V17.67c0,7.38-6.71,11.1-11.8,11.1C6.52,28.77.22,25.06.23,17.67Z" transform="translate(0 0)"/>
+                <path class="cls-5" d="M14.21,15.38v8.94a.58.58,0,0,0,1.16,0V7.46a.58.58,0,0,0-1.16,0v7.93Z" transform="translate(0 0)"/>
+                <path class="cls-6" d="M14.11,15.38v9a.69.69,0,0,0,1.36,0V7.36a.69.69,0,0,0-1.36,0v9" transform="translate(0 0)"/>
+                <path class="cls-5" d="M14.31,24.42c0,.32-.36.58-.8.58s-.79-.26-.79-.58V7.36c0-.31.36-.57.79-.57s.8.26.8.57Z" transform="translate(0 0)"/>
+                <path class="cls-6" d="M14.31,24.42c0,.32-.36.58-.8.58s-.79-.26-.79-.58V7.36c0-.31.36-.57.79-.57s.8.26.8.57Z" transform="translate(0 0)"/>
+                <path class="cls-5" d="M12.75,17.76V27a.69.69,0,0,1-1.36,0V2.19a.69.69,0,0,1,1.36,0V17.76Z" transform="translate(0 0)"/>
+                <path class="cls-6" d="M12.75,17.76V27a.69.69,0,0,1-1.36,0V2.19a.69.69,0,0,1,1.36,0V17.76Z" transform="translate(0 0)"/>
+                <path class="cls-5" d="M9.92,15.38v8.94a.58.58,0,0,1-1.16,0V7.46a.58.58,0,0,1,1.16,0v7.93Z" transform="translate(0 0)"/>
+                <path class="cls-6" d="M10,15.38v9a.64.64,0,0,1-.69.58.63.63,0,0,1-.68-.58V7.36a.63.63,0,0,1,.68-.57.64.64,0,0,1,.69.57v9" transform="translate(0 0)"/>
+                <path class="cls-5" d="M9.83,24.42c0,.32.35.58.79.58s.8-.26.8-.58V7.36c0-.31-.36-.57-.8-.57s-.79.26-.79.57Z" transform="translate(0 0)"/>
+                <path class="cls-6" d="M9.83,24.42c0,.32.35.58.79.58s.8-.26.8-.58V7.36c0-.31-.36-.57-.8-.57s-.79.26-.79.57Z" transform="translate(0 0)"/>
+                <path class="cls-5" d="M12.92,24.42c0,.32-.38.57-.85.57s-.85-.26-.85-.57V7.36c0-.31.39-.57.85-.57s.85.26.85.57Z" transform="translate(0 0)"/>
+                <path class="cls-6" d="M12.92,24.42c0,.32-.38.57-.85.57s-.85-.26-.85-.57V7.36c0-.31.39-.57.85-.57s.85.26.85.57Z" transform="translate(0 0)"/>
+            </g>
+            <rect class="cls-3" x="8.33" y="8.21" width="7.48" height="1.5"/>
+            <rect class="cls-6" x="8.33" y="8.21" width="7.48" height="1.5"/>
+            <rect class="cls-3" x="8.33" y="21.98" width="7.48" height="1.51"/>
+            <rect class="cls-6" x="8.33" y="21.98" width="7.48" height="1.51"/>
+            <g class="cls-2">
+                <path class="cls-5" d="M13.56,4.36s-.24.26-.77.76a5.4,5.4,0,0,0-4,1.4h0A3.87,3.87,0,0,1,7.94,4h0a3.69,3.69,0,0,1,.68-2.48,7.55,7.55,0,0,0,2.14,1.7l2,.34Z" transform="translate(0 0)"/>
+                <path class="cls-6" d="M13.56,4.36s-.24.26-.77.76a5.4,5.4,0,0,0-4,1.4h0A3.87,3.87,0,0,1,7.94,4h0a3.69,3.69,0,0,1,.68-2.48,7.55,7.55,0,0,0,2.14,1.7l2,.34Z" transform="translate(0 0)"/>
+            </g>
+            <polygon class="cls-3" points="15.8 12.78 15.8 10.24 8.33 19.26 8.33 21.81 15.8 12.78"/>
+            <polygon class="cls-6" points="15.8 12.78 15.8 10.24 8.33 19.26 8.33 21.81 15.8 12.78"/>
+            <polygon class="cls-3" points="15.8 21.63 8.33 12.74 8.33 10.24 15.8 19.13 15.8 21.63"/>
+            <polygon class="cls-6" points="15.8 21.63 8.33 12.74 8.33 10.24 15.8 19.13 15.8 21.63"/>
+        </g>
+    </g>
+</svg>
