@@ -2,29 +2,29 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24.03 29" preserveAspectRatio="xMinYMid">
     <defs>
         <style>.cls-1,.cls-4,.cls-6{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#fff;}.cls-4,.cls-6{stroke:#171714;}.cls-4{stroke-miterlimit:11.47;stroke-width:0.08px;}.cls-5{fill:#c2172e;}.cls-6{stroke-miterlimit:3.86;stroke-width:0.45px;}</style>
-        <clipPath id="clip-path" transform="translate(0 0)">
+        <clipPath id="clip-path" >
             <rect class="cls-1" width="24.03" height="29"/>
         </clipPath>
     </defs>
     <g>
         <g>
             <g class="cls-2">
-                <path class="cls-3" d="M23.6.55H12v0L.42.57v17.2c0,6,5.19,10.94,11.59,10.94S23.6,23.82,23.6,17.77Z" transform="translate(0 0)"/>
+                <path class="cls-3" d="M23.6.55H12v0L.42.57v17.2c0,6,5.19,10.94,11.59,10.94S23.6,23.82,23.6,17.77Z" />
             </g>
             <line class="cls-4" x1="23.57" y1="12.63" x2="23.57" y2="8.6"/>
             <rect class="cls-5" x="12.01" y="0.4" width="11.59" height="4.02"/>
             <rect class="cls-5" x="12.01" y="8.6" width="11.59" height="4.02"/>
             <g class="cls-2">
-                <path class="cls-5" d="M23.6,16.64H12v4H23.2a10.35,10.35,0,0,0,.41-2.9V16.64Z" transform="translate(0 0)"/>
-                <path class="cls-5" d="M12,28.71a11.83,11.83,0,0,0,9-4H12v4Z" transform="translate(0 0)"/>
+                <path class="cls-5" d="M23.6,16.64H12v4H23.2a10.35,10.35,0,0,0,.41-2.9V16.64Z" />
+                <path class="cls-5" d="M12,28.71a11.83,11.83,0,0,0,9-4H12v4Z" />
             </g>
             <rect class="cls-5" x="4.61" y="9.78" width="6.26" height="0.66"/>
             <rect class="cls-5" x="5.51" y="10.69" width="4.46" height="0.66"/>
             <rect class="cls-5" x="5.51" y="8.86" width="4.46" height="0.66"/>
             <polygon class="cls-5" points="6.2 21.66 4.23 23.94 5.74 11.62 7.74 11.62 9.73 11.62 11.25 23.94 9.28 21.66 7.74 26.56 6.18 21.66 6.2 21.66"/>
             <g class="cls-2">
-                <path class="cls-5" d="M6.17,8.62a10.25,10.25,0,0,0,.24-3.75A1.71,1.71,0,0,0,5,3.45c-1.38-.19-1.61,1-1.55.94A1.49,1.49,0,0,1,5,4.46,1.62,1.62,0,0,1,4.9,7,2,2,0,0,1,2.57,7a2,2,0,0,1-.91-1.11,3.43,3.43,0,0,1,.71-3.23A4,4,0,0,1,7,2C9.15,3,9.26,8.63,9.26,8.63l-3.08,0" transform="translate(0 0)"/>
-                <path class="cls-6" d="M12,28.6V.4M.23,17.68V.23H23.81V17.67c0,7.38-6.71,11.1-11.8,11.1C6.52,28.78.22,25.06.23,17.68Z" transform="translate(0 0)"/>
+                <path class="cls-5" d="M6.17,8.62a10.25,10.25,0,0,0,.24-3.75A1.71,1.71,0,0,0,5,3.45c-1.38-.19-1.61,1-1.55.94A1.49,1.49,0,0,1,5,4.46,1.62,1.62,0,0,1,4.9,7,2,2,0,0,1,2.57,7a2,2,0,0,1-.91-1.11,3.43,3.43,0,0,1,.71-3.23A4,4,0,0,1,7,2C9.15,3,9.26,8.63,9.26,8.63l-3.08,0" />
+                <path class="cls-6" d="M12,28.6V.4M.23,17.68V.23H23.81V17.67c0,7.38-6.71,11.1-11.8,11.1C6.52,28.78.22,25.06.23,17.68Z" />
             </g>
         </g>
     </g>

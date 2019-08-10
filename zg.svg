@@ -2,16 +2,16 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24.03 29" preserveAspectRatio="xMinYMid">
     <defs>
         <style>.cls-1,.cls-5{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#fff;}.cls-4{fill:#2673bd;}.cls-5{stroke:#171714;stroke-miterlimit:3.86;stroke-width:0.45px;}</style>
-        <clipPath id="clip-path" transform="translate(0 0)">
+        <clipPath id="clip-path" >
             <rect class="cls-1" width="24.03" height="29"/>
         </clipPath>
     </defs>
     <g>
         <g>
             <g class="cls-2">
-                <path class="cls-3" d="M.5,17.66V.47H23.67V17.66c0,7.28-6.6,10.95-11.6,10.95C6.69,28.61.51,24.94.5,17.66" transform="translate(0 0)"/>
-                <path class="cls-4" d="M23.67,9.62H.41s0,8.75,0,9.06l23.27,0Z" transform="translate(0 0)"/>
-                <path class="cls-5" d="M.23,17.67V.23H23.81V17.67c0,7.38-6.71,11.1-11.8,11.1C6.52,28.77.22,25.06.23,17.67Z" transform="translate(0 0)"/>
+                <path class="cls-3" d="M.5,17.66V.47H23.67V17.66c0,7.28-6.6,10.95-11.6,10.95C6.69,28.61.51,24.94.5,17.66" />
+                <path class="cls-4" d="M23.67,9.62H.41s0,8.75,0,9.06l23.27,0Z" />
+                <path class="cls-5" d="M.23,17.67V.23H23.81V17.67c0,7.38-6.71,11.1-11.8,11.1C6.52,28.77.22,25.06.23,17.67Z" />
             </g>
         </g>
     </g>

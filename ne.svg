@@ -2,20 +2,20 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24.03 29" preserveAspectRatio="xMinYMid">
     <defs>
         <style>.cls-1,.cls-6{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#c2172e;}.cls-4{fill:#fff;}.cls-5{fill:#69a33d;}.cls-6{stroke:#171714;stroke-miterlimit:3.86;stroke-width:0.45px;}</style>
-        <clipPath id="clip-path" transform="translate(0 0)">
+        <clipPath id="clip-path" >
             <rect class="cls-1" width="24.03" height="29"/>
         </clipPath>
     </defs>
     <g>
         <g>
             <g class="cls-2">
-                <path class="cls-3" d="M16.12,27.85c4.37-1.57,7.47-5.18,7.47-9.85l0-17.58H16.12V27.85Z" transform="translate(0 0)"/>
-                <path class="cls-4" d="M16.12,27.64V.42H8.43V28a12.33,12.33,0,0,0,7.69-.18Z" transform="translate(0 0)"/>
-                <path class="cls-5" d="M8.43,27.93V.42h-8L.42,18c0,4.86,3.35,8.61,8,10Z" transform="translate(0 0)"/>
+                <path class="cls-3" d="M16.12,27.85c4.37-1.57,7.47-5.18,7.47-9.85l0-17.58H16.12V27.85Z" />
+                <path class="cls-4" d="M16.12,27.64V.42H8.43V28a12.33,12.33,0,0,0,7.69-.18Z" />
+                <path class="cls-5" d="M8.43,27.93V.42h-8L.42,18c0,4.86,3.35,8.61,8,10Z" />
             </g>
             <polygon class="cls-4" points="20.05 4.1 20.05 1.45 19.19 1.45 19.19 4.1 16.54 4.1 16.54 4.97 19.19 4.97 19.19 7.62 20.07 7.62 20.06 4.97 22.71 4.97 22.71 4.1 20.05 4.1"/>
             <g class="cls-2">
-                <path class="cls-6" d="M.23,17.67V.23H23.81V17.67c0,7.38-6.71,11.1-11.8,11.1C6.52,28.77.22,25.06.23,17.67Z" transform="translate(0 0)"/>
+                <path class="cls-6" d="M.23,17.67V.23H23.81V17.67c0,7.38-6.71,11.1-11.8,11.1C6.52,28.77.22,25.06.23,17.67Z" />
             </g>
         </g>
     </g>
